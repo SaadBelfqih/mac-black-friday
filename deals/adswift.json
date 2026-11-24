@@ -1,0 +1,14 @@
+{
+  "name": "ADSwift",
+  "url": "https://adswift.app/?utm_source=boltai&utm_medium=referral&utm_campaign=blackfriday",
+  "platforms": ["macOS"],
+  "category": "developer",
+  "description": "Mac app for Apple Ads with RevenueCat revenue built in: see what every keyword actually earns, not just what it costs.",
+  "discount": "50% off",
+  "code": "BLACKFRIDAY",
+  "prices": [{ "plan": "Lifetime", "before": 149, "after": 74.5 }],
+  "starts": "2026-11-24",
+  "ends": "2026-11-30",
+  "terms": "One-time purchase. Code is applied automatically on adswift.app.",
+  "icon": "https://adswift.app/assets/icon.png"
+}
